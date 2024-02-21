@@ -1,0 +1,2477 @@
+[
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/456-agua-de-rosas-lino-azul-240-ml-13-12-2023-tiendasisimo-2-1-300x300.jpg",
+    "name": "Agua de rosas lino azul 240 ml",
+    "state": "defeated",
+    "Product": {
+      "name": "Agua de rosas lino azul 240 ml",
+      "description": "Agua de rosas lino azul 240 ml",
+      "price": "$4,250",
+      "productMeta": {
+        "category": " Facial",
+        "sku": " 456",
+        "brand": " Lino azul"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1074-Aguacate-400-G-300x300.jpg",
+    "name": "Aguacate variedad 400 g",
+    "state": "active",
+    "Product": {
+      "name": "Aguacate variedad 400 g",
+      "description": "Aguacate variedad 400 g",
+      "price": "$6,290",
+      "productMeta": {
+        "category": " Frutas frescas",
+        "sku": " 1074",
+        "brand": " Frutas frescas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1616-alas-sin-costillar-delipollo-700-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Alas sin costillar delipollo 700 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Alas sin costillar delipollo 700 g",
+      "description": "Alas sin costillar delipollo 700 g",
+      "price": "$7,690",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1616",
+        "brand": " Delipollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1100-actigest-fresa-100-g-tiendasisimo.png",
+    "name": "Actigest fresa 100 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Actigest fresa 100 g",
+      "description": "Actigest fresa 100 g",
+      "price": "$1,350",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 1100",
+        "brand": " Actigest"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/245-aceite-oliva-canola-gran-meson-1000-ml-tiendasisimo-300x300.png",
+    "name": "Aceite oliva canola gran meson 1000 ml",
+    "state": "active",
+    "Product": {
+      "name": "Aceite oliva canola gran meson 1000 ml",
+      "description": "Aceite oliva canola gran meson 1000 ml",
+      "price": "$20,990",
+      "productMeta": {
+        "category": " Aceites premium",
+        "sku": " 245",
+        "brand": " Gran meson"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/08/243-aceite-mezcla-vegetal-900-ml-tiendasisimo-1-300x300.jpg",
+    "name": "Aceite mezcla vegetal 900 ml",
+    "state": "recommended",
+    "Product": {
+      "name": "Aceite mezcla vegetal 900 ml",
+      "description": "Aceite mezcla vegetal 900 ml",
+      "price": "$7,490",
+      "productMeta": {
+        "category": " Aceites mezclas vegetales",
+        "sku": " 243",
+        "brand": " Frita frita/ don rendidor"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/7-arepa-de-huevo-mini-240-g-tiendasisimo-300x300.jpg",
+    "name": "Arepa de huevo mini 240 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Arepa de huevo mini 240 g",
+      "description": "Arepa de huevo mini 240 g",
+      "price": "$7,990",
+      "productMeta": {
+        "category": " Pasabocas & panaderia",
+        "sku": " 7",
+        "brand": " Gourmet en 5"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/995-alimento-perros-mascan-adultos-2000-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Alimento perros mascan adultos 2000 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Alimento perros mascan adultos 2000 g",
+      "description": "Alimento perros mascan adultos 2000 g",
+      "price": "$9,490",
+      "productMeta": {
+        "category": " Alimento para perros",
+        "sku": " 995",
+        "brand": " Mas can"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/753-arepa-de-maiz-multicereales-4-und-280-g-tiendasisimo-2-1-300x300.jpg",
+    "name": "Arepa de maiz multicereales 4 und 280 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Arepa de maiz multicereales 4 und 280 g",
+      "description": "Arepa de maiz multicereales 4 und 280 g",
+      "price": "$3,290",
+      "productMeta": {
+        "category": " Arepas",
+        "sku": " 753",
+        "brand": " Sary"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/349-aros-afrutados-250-g-tiendasisimo-2-1-300x300.jpg",
+    "name": "Aros afrutados 250 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Aros afrutados 250 g",
+      "description": "Aros afrutados 250 g",
+      "price": "$4,650",
+      "productMeta": {
+        "category": " Cereales",
+        "sku": " 349",
+        "brand": " Carolina"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/672-ambientador-aceites-esenciales-110-ml-tiendasisimo-300x300.jpg",
+    "name": "Ambientador aceites esenciales 110 ml",
+    "state": "surprise",
+    "Product": {
+      "name": "Ambientador aceites esenciales 110 ml",
+      "description": "Ambientador aceites esenciales 110 ml",
+      "price": "$6,990",
+      "productMeta": {
+        "category": " Ambientadores",
+        "sku": " 672",
+        "brand": " Onza"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/265-alimento-perros-donkan-carne-1000-g-tiendasisimo-300x300.jpg",
+    "name": "Alimento perros donkan carne 1000 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Alimento perros donkan carne 1000 g",
+      "description": "Alimento perros donkan carne 1000 g",
+      "price": "$6,390",
+      "productMeta": {
+        "category": " Alimento para perros",
+        "sku": " 265",
+        "brand": " Donkan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/157-Arandanos-125-G-png-300x300.png",
+    "name": "Arandanos frescos 125 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Arandanos frescos 125 g",
+      "description": "Arandanos frescos 125 g",
+      "price": "$6,590",
+      "productMeta": {
+        "category": " Frutas frescas",
+        "sku": " 157",
+        "brand": " Frutas frescas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/166-arveja-verde-500-g-tiendasisimo-300x300.png",
+    "name": "Arveja verde 500 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Arveja verde 500 g",
+      "description": "Arveja verde 500 g",
+      "price": "$2,190",
+      "productMeta": {
+        "category": " Otros granos",
+        "sku": " 166",
+        "brand": " Otros granos"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/266-arena-absorbente-para-gatos-4500-g-tiendasisimo-300x300.jpg",
+    "name": "Arena absorbente para gatos 4500 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Arena absorbente para gatos 4500 g",
+      "description": "Arena absorbente para gatos 4500 g",
+      "price": "$15,990",
+      "productMeta": {
+        "category": " Accesorios mascotas",
+        "sku": " 266",
+        "brand": " Accesorios mascotas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/270-bebida-de-almendras-celema-900-ml-tiendasisimo-300x300.png",
+    "name": "Bebida de almendras celema 900 ml",
+    "state": "active",
+    "Product": {
+      "name": "Bebida de almendras celema 900 ml",
+      "description": "Bebida de almendras celema 900 ml",
+      "price": "$8,990",
+      "productMeta": {
+        "category": " Bebidas vegetales",
+        "sku": " 270",
+        "brand": " Celema"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/470-bolsa-papelera-verde-43x48x30-30-und-tiendasisimo-300x300.jpg",
+    "name": "Bolsa papelera verde 43x48x30 30 und",
+    "state": "surprise",
+    "Product": {
+      "name": "Bolsa papelera verde 43x48x30 30 und",
+      "description": "Bolsa papelera verde 43x48x30 30 und",
+      "price": "$2,190",
+      "productMeta": {
+        "category": " Utensilios",
+        "sku": " 470",
+        "brand": " Rollbag"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/469-bolsa-papelera-blanca-43x48x30-30-und-tiendasisimo-300x300.jpg",
+    "name": "Bolsa papelera blanca 43x48x30 30 und",
+    "state": "surprise",
+    "Product": {
+      "name": "Bolsa papelera blanca 43x48x30 30 und",
+      "description": "Bolsa papelera blanca 43x48x30 30 und",
+      "price": "$2,190",
+      "productMeta": {
+        "category": " Utensilios",
+        "sku": " 469",
+        "brand": " Rollbag"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1210-Banano-unidad-1.jpg-300x300.jpg",
+    "name": "Banano unidad",
+    "state": "surprise",
+    "Product": {
+      "name": "Banano unidad",
+      "description": "Banano unidad",
+      "price": "$550",
+      "productMeta": {
+        "category": " Frutas frescas",
+        "sku": " 1210",
+        "brand": " Frutas frescas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/15-bicarbonato-de-sodio-tepuy-500-g-tiendasisimo-300x300.jpg",
+    "name": "Bicarbonato de sodio tepuy 500 g",
+    "state": "active",
+    "Product": {
+      "name": "Bicarbonato de sodio tepuy 500 g",
+      "description": "Bicarbonato de sodio tepuy 500 g",
+      "price": "$4,350",
+      "productMeta": {
+        "category": " Condimentos & adobos",
+        "sku": " 15",
+        "brand": " Tepuy"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/463-biovarsol-varsol-emulsionado-800-ml-tiendasisimo-300x300.jpg",
+    "name": "Biovarsol varsol emulsionado 800 ml",
+    "state": "surprise",
+    "Product": {
+      "name": "Biovarsol varsol emulsionado 800 ml",
+      "description": "Biovarsol varsol emulsionado 800 ml",
+      "price": "$5,990",
+      "productMeta": {
+        "category": " Limpiadores & desinfectantes",
+        "sku": " 463",
+        "brand": " Home be clean"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1206-bebida-achocolatada-chocolisto-200-g-tiendasisimo-300x300.png",
+    "name": "Bebida achocolatada chocolisto 200 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Bebida achocolatada chocolisto 200 g",
+      "description": "Bebida achocolatada chocolisto 200 g",
+      "price": "$7,490",
+      "productMeta": {
+        "category": " Modificadores",
+        "sku": " 1206",
+        "brand": " Chocolisto"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/466-bolsa-basura-blanca-65x90x10-10-und-tiendasisimo-300x300.jpg",
+    "name": "Bolsa basura blanca 65x90x10 10 und",
+    "state": "recommended",
+    "Product": {
+      "name": "Bolsa basura blanca 65x90x10 10 und",
+      "description": "Bolsa basura blanca 65x90x10 10 und",
+      "price": "$2,190",
+      "productMeta": {
+        "category": " Utensilios",
+        "sku": " 466",
+        "brand": " Rollbag"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1618-contramuslo-marinado-delipollo-850-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Contramuslo marinado delipollo 850 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Contramuslo marinado delipollo 850 g",
+      "description": "Contramuslo marinado delipollo 850 g",
+      "price": "$8,990",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1618",
+        "brand": " Delipollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/175-Cebolla-Blanca-Cabezona-500-G-1-300x300.jpg",
+    "name": "Cebolla blanca cabezona 500 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Cebolla blanca cabezona 500 g",
+      "description": "Cebolla blanca cabezona 500 g",
+      "price": "$2,150",
+      "productMeta": {
+        "category": " Verduras",
+        "sku": " 175",
+        "brand": " Verduras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/609-caramelo-relleno-bianchi-surtido-80-g-tiendasisimo-2-300x300.jpg",
+    "name": "Caramelo relleno bianchi surtido 80 g",
+    "state": "active",
+    "Product": {
+      "name": "Caramelo relleno bianchi surtido 80 g",
+      "description": "Caramelo relleno bianchi surtido 80 g",
+      "price": "$2,650",
+      "productMeta": {
+        "category": " Caramelos gomitas & confites",
+        "sku": " 609",
+        "brand": " Bianchi"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/19-camaron-ppd-200-g-tiendasisimo-300x300.jpg",
+    "name": "Camaron ppd 200 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Camaron ppd 200 g",
+      "description": "Camaron ppd 200 g",
+      "price": "$10,990",
+      "productMeta": {
+        "category": " Pescados & mariscos",
+        "sku": " 19",
+        "brand": " Riverpez"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1164-cacao-polvo-sin-azucar-120-g-tiendasisimo-300x300.jpeg",
+    "name": "Cacao polvo sin azucar 120 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Cacao polvo sin azucar 120 g",
+      "description": "Cacao polvo sin azucar 120 g",
+      "price": "$5,350",
+      "productMeta": {
+        "category": " Otras bebidas secas",
+        "sku": " 1164",
+        "brand": " Autentique"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/283-cafe-instantaneo-granulado-85-g-tiendasisimo-2-300x300.jpg",
+    "name": "Cafe instantaneo granulado 85 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Cafe instantaneo granulado 85 g",
+      "description": "Cafe instantaneo granulado 85 g",
+      "price": "$8,190",
+      "productMeta": {
+        "category": " Cafe",
+        "sku": " 283",
+        "brand": " Cafe"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/17-caldo-de-costilla-8-cubos-84-g-tiendasisimo-2-300x300.jpg",
+    "name": "Caldo de costilla 8 cubos 84 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Caldo de costilla 8 cubos 84 g",
+      "description": "Caldo de costilla 8 cubos 84 g",
+      "price": "$1,990",
+      "productMeta": {
+        "category": " Caldos",
+        "sku": " 17",
+        "brand": " Don caldo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/32-chicharrones-prefritos-trocitos-200-g-tiendasisimo-2-300x300.jpg",
+    "name": "Chicharrones prefritos trocitos 200 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Chicharrones prefritos trocitos 200 g",
+      "description": "Chicharrones prefritos trocitos 200 g",
+      "price": "$12,990",
+      "productMeta": {
+        "category": " Vegetales",
+        "sku": " 32",
+        "brand": " Kapel"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/08/1214-cafe-nescafe-tradicion-50-g-tiendasisimo-300x300.jpg",
+    "name": "Cafe nescafe tradicion 50 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Cafe nescafe tradicion 50 g",
+      "description": "Cafe nescafe tradicion 50 g",
+      "price": "$8,490",
+      "productMeta": {
+        "category": " Cafe",
+        "sku": " 1214",
+        "brand": " Nescafe"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/737-coca-cola-pet-original-1750-ml-tiendasisimo-300x300.png",
+    "name": "Coca cola pet original 1750 ml",
+    "state": "active",
+    "Product": {
+      "name": "Coca cola pet original 1750 ml",
+      "description": "Coca cola pet original 1750 ml",
+      "price": "$5,590",
+      "productMeta": {
+        "category": " Gaseosas",
+        "sku": " 737",
+        "brand": " Coca cola"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/284-cafe-tostado-molido-rojo-del-monte-250-g-tiendasisimo-300x300.jpg",
+    "name": "Cafe tostado molido rojo del monte 250 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Cafe tostado molido rojo del monte 250 g",
+      "description": "Cafe tostado molido rojo del monte 250 g",
+      "price": "$6,990",
+      "productMeta": {
+        "category": " Cafe",
+        "sku": " 284",
+        "brand": " Rojo del monte"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/782-cepillo-dental-adulto-suave-1-und-tiendasisimo-300x300.jpg",
+    "name": "Cepillo dental adulto suave 1 und",
+    "state": "surprise",
+    "Product": {
+      "name": "Cepillo dental adulto suave 1 und",
+      "description": "Cepillo dental adulto suave 1 und",
+      "price": "$1,550",
+      "productMeta": {
+        "category": " Oral",
+        "sku": " 782",
+        "brand": " Cepimax"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/24-carne-de-cerdo-filete-pierna-500-g-tiendasisimo-300x300.jpg",
+    "name": "Carne de cerdo filete pierna 500 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Carne de cerdo filete pierna 500 g",
+      "description": "Carne de cerdo filete pierna 500 g",
+      "price": "$10,390",
+      "productMeta": {
+        "category": " Carne de cerdo",
+        "sku": " 24",
+        "brand": " Carnitas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/781-cepillo-dental-adulto-medio-1-und-tiendasisimo-300x300.jpg",
+    "name": "Cepillo dental adulto medio 1 und",
+    "state": "active",
+    "Product": {
+      "name": "Cepillo dental adulto medio 1 und",
+      "description": "Cepillo dental adulto medio 1 und",
+      "price": "$1,550",
+      "productMeta": {
+        "category": " Oral",
+        "sku": " 781",
+        "brand": " Cepimax"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/16-cabano-68-g-tiendasisimo-1-300x300.jpg",
+    "name": "Cabano 68 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Cabano 68 g",
+      "description": "Cabano 68 g",
+      "price": "$3,490",
+      "productMeta": {
+        "category": " Madurados",
+        "sku": " 16",
+        "brand": " Catalan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/377-compota-surtida-babyfruit-113-g-tiendasisimo-300x300.jpg",
+    "name": "Compota surtida babyfruit 113 g",
+    "state": "active",
+    "Product": {
+      "name": "Compota surtida babyfruit 113 g",
+      "description": "Compota surtida babyfruit 113 g",
+      "price": "$1,990",
+      "productMeta": {
+        "category": " Alimento bebe",
+        "sku": " 377",
+        "brand": " Babyfruit"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/289-coca-cola-original-lata-235-ml-tiendasisimo-300x300.jpg",
+    "name": "Coca cola original lata 235 ml",
+    "state": "recommended",
+    "Product": {
+      "name": "Coca cola original lata 235 ml",
+      "description": "Coca cola original lata 235 ml",
+      "price": "$2,390",
+      "productMeta": {
+        "category": " Gaseosas",
+        "sku": " 289",
+        "brand": " Coca cola"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/174-caramelos-blandos-mechas-locas-3325-g-tiendasisimo-2-300x300.png",
+    "name": "Caramelos blandos mechas locas 33.25 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Caramelos blandos mechas locas 33.25 g",
+      "description": "Caramelos blandos mechas locas 33.25 g",
+      "price": "$3,590",
+      "productMeta": {
+        "category": " Caramelos gomitas & confites",
+        "sku": " 174",
+        "brand": " Mechas locas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/282-cafe-instantaneo-en-polvo-85-g-tiendasisimo-2-300x300.jpg",
+    "name": "Cafe instantaneo en polvo 85 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Cafe instantaneo en polvo 85 g",
+      "description": "Cafe instantaneo en polvo 85 g",
+      "price": "$7,350",
+      "productMeta": {
+        "category": " Cafe",
+        "sku": " 282",
+        "brand": " Cafe"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1069-cebolla-larga-250-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Cebolla larga 250 g",
+    "state": "active",
+    "Product": {
+      "name": "Cebolla larga 250 g",
+      "description": "Cebolla larga 250 g",
+      "price": "$1,990",
+      "productMeta": {
+        "category": " Verduras",
+        "sku": " 1069",
+        "brand": " Verduras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/497-encendedor-multiproposito-1-und-tiendasisimo-300x300.jpg",
+    "name": "Encendedor multiproposito 1 und",
+    "state": "active",
+    "Product": {
+      "name": "Encendedor multiproposito 1 und",
+      "description": "Encendedor multiproposito 1 und",
+      "price": "$4,490",
+      "productMeta": {
+        "category": " Otros hogar",
+        "sku": " 497",
+        "brand": " El sol"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/46-empanadas-de-carne-caseras-420-g-tiendasisimo-300x300.jpg",
+    "name": "Empanadas de carne caseras 420 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Empanadas de carne caseras 420 g",
+      "description": "Empanadas de carne caseras 420 g",
+      "price": "$7,690",
+      "productMeta": {
+        "category": " Pasabocas & panaderia",
+        "sku": " 46",
+        "brand": " Juana teresa"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/291-crema-sabor-whisky-pinar-del-rio-750-ml-13-12-2023-tiendasisimo-2-1-300x300.jpg",
+    "name": "Crema sabor whisky pinar del rio 750 ml",
+    "state": "defeated",
+    "Product": {
+      "name": "Crema sabor whisky pinar del rio 750 ml",
+      "description": "Crema sabor whisky pinar del rio 750 ml",
+      "price": "$34,990",
+      "productMeta": {
+        "category": " Licores",
+        "sku": " 291",
+        "brand": " Pinar del rio"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/502-esponja-malla-2-und-tiendasisimo-300x300.jpg",
+    "name": "Esponja malla 2 und",
+    "state": "surprise",
+    "Product": {
+      "name": "Esponja malla 2 und",
+      "description": "Esponja malla 2 und",
+      "price": "$1,150",
+      "productMeta": {
+        "category": " Utensilios",
+        "sku": " 502",
+        "brand": " Limpo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1072-Espinaca-150Ggr-300x300.jpg",
+    "name": "Espinaca 150 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Espinaca 150 g",
+      "description": "Espinaca 150 g",
+      "price": "$3,650",
+      "productMeta": {
+        "category": " Verduras",
+        "sku": " 1072",
+        "brand": " Verduras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/500-esponja-abrasiva-1-und-tiendasisimo-300x300.jpg",
+    "name": "Esponja abrasiva 1 und",
+    "state": "recommended",
+    "Product": {
+      "name": "Esponja abrasiva 1 und",
+      "description": "Esponja abrasiva 1 und",
+      "price": "$990",
+      "productMeta": {
+        "category": " Utensilios",
+        "sku": " 500",
+        "brand": " Limpo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1258-desodorante-crema-lady-speed-stick-30-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Desodorante crema lady speed stick 30 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Desodorante crema lady speed stick 30 g",
+      "description": "Desodorante crema lady speed stick 30 g",
+      "price": "$3,490",
+      "productMeta": {
+        "category": " Desodorantes corporales",
+        "sku": " 1258",
+        "brand": " Speed stick"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/300-esparcible-rama-barra-125-g-tiendasisimo-300x300.jpg",
+    "name": "Esparcible rama barra 125 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Esparcible rama barra 125 g",
+      "description": "Esparcible rama barra 125 g",
+      "price": "$2,490",
+      "productMeta": {
+        "category": " Margarinas",
+        "sku": " 300",
+        "brand": " Rama"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1150-ensalada-de-vegetales-lata-300-g-tiendasisimo.png",
+    "name": "Ensalada de vegetales lata 300 g",
+    "state": "active",
+    "Product": {
+      "name": "Ensalada de vegetales lata 300 g",
+      "description": "Ensalada de vegetales lata 300 g",
+      "price": "$3,690",
+      "productMeta": {
+        "category": " Frutas y vegetales",
+        "sku": " 1150",
+        "brand": " Avinon"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/492-detergente-liquido-3800-ml-tiendasisimo-300x300.jpg",
+    "name": "Detergente liquido 3800 ml",
+    "state": "active",
+    "Product": {
+      "name": "Detergente liquido 3800 ml",
+      "description": "Detergente liquido 3800 ml",
+      "price": "$15,990",
+      "productMeta": {
+        "category": " Detergentes",
+        "sku": " 492",
+        "brand": " Home be clean"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/301-esparcible-rama-multiusos-220-g-tiendasisimo-2-300x300.jpg",
+    "name": "Esparcible rama multiusos 220 g",
+    "state": "active",
+    "Product": {
+      "name": "Esparcible rama multiusos 220 g",
+      "description": "Esparcible rama multiusos 220 g",
+      "price": "$4,690",
+      "productMeta": {
+        "category": " Margarinas",
+        "sku": " 301",
+        "brand": " Rama"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1257-desodorante-crema-speed-stick-30-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Desodorante crema speed stick 30 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Desodorante crema speed stick 30 g",
+      "description": "Desodorante crema speed stick 30 g",
+      "price": "$3,490",
+      "productMeta": {
+        "category": " Desodorantes corporales",
+        "sku": " 1257",
+        "brand": " Speed stick"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/490-detergente-estandar-1000-g-tiendasisimo-300x300.jpg",
+    "name": "Detergente estandar 1000 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Detergente estandar 1000 g",
+      "description": "Detergente estandar 1000 g",
+      "price": "$4,990",
+      "productMeta": {
+        "category": " Detergentes",
+        "sku": " 490",
+        "brand": " Gol"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1328-crema-para-cafe-boom-100-g-tiendasisimo-300x300.png",
+    "name": "Crema para cafe boom 100 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Crema para cafe boom 100 g",
+      "description": "Crema para cafe boom 100 g",
+      "price": "$2,990",
+      "productMeta": {
+        "category": " Modificadores",
+        "sku": " 1328",
+        "brand": " Boom"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/477-crema-dental-gel-kids-50-g-tiendasisimo-300x300.jpg",
+    "name": "Crema dental gel kids 50 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Crema dental gel kids 50 g",
+      "description": "Crema dental gel kids 50 g",
+      "price": "$4,990",
+      "productMeta": {
+        "category": " Oral",
+        "sku": " 477",
+        "brand": " Colgate"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/484-desinfectante-en-gel-cloro-denso-1000-ml-tiendasisimo-1-300x300.jpg",
+    "name": "Desinfectante en gel cloro denso 1000 ml",
+    "state": "defeated",
+    "Product": {
+      "name": "Desinfectante en gel cloro denso 1000 ml",
+      "description": "Desinfectante en gel cloro denso 1000 ml",
+      "price": "$5,290",
+      "productMeta": {
+        "category": " Limpiadores & desinfectantes",
+        "sku": " 484",
+        "brand": " Maghix"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/499-escoba-1-und-tiendasisimo-300x300.jpg",
+    "name": "Escoba 1 und",
+    "state": "active",
+    "Product": {
+      "name": "Escoba 1 und",
+      "description": "Escoba 1 und",
+      "price": "$2,750",
+      "productMeta": {
+        "category": " Utensilios",
+        "sku": " 499",
+        "brand": " 1a"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/180-crakenas-doraditas-315-g-13-12-2023-tiendasisimo-4-1-300x300.jpg",
+    "name": "Crakenas doraditas 315 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Crakenas doraditas 315 g",
+      "description": "Crakenas doraditas 315 g",
+      "price": "$7,250",
+      "productMeta": {
+        "category": " Galletas saladas",
+        "sku": " 180",
+        "brand": " Crakenas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1084-fresa-250-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Fresa 250 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Fresa 250 g",
+      "description": "Fresa 250 g",
+      "price": "$4,990",
+      "productMeta": {
+        "category": " Frutas frescas",
+        "sku": " 1084",
+        "brand": " Frutas frescas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/371-gelatina-light-sabor-fresa-12-g-tiendasisimo-300x300.jpg",
+    "name": "Gelatina light sabor fresa 12 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Gelatina light sabor fresa 12 g",
+      "description": "Gelatina light sabor fresa 12 g",
+      "price": "$1,650",
+      "productMeta": {
+        "category": " Gelatina",
+        "sku": " 371",
+        "brand": " Boom"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/192-galleta-club-social-9-und-216-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Galleta club social 9 und 216 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Galleta club social 9 und 216 g",
+      "description": "Galleta club social 9 und 216 g",
+      "price": "$6,490",
+      "productMeta": {
+        "category": " Galletas saladas",
+        "sku": " 192",
+        "brand": " Club social"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/206-galletas-oreo-108-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Galletas oreo 108 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Galletas oreo 108 g",
+      "description": "Galletas oreo 108 g",
+      "price": "$2,990",
+      "productMeta": {
+        "category": " Galletas dulces",
+        "sku": " 206",
+        "brand": " Oreo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/899-galleta-saltin-crakenas-300-g-13-12-2023-tiendasisimo-4-1-300x300.jpg",
+    "name": "Galleta saltin crakenas 300 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Galleta saltin crakenas 300 g",
+      "description": "Galleta saltin crakenas 300 g",
+      "price": "$4,990",
+      "productMeta": {
+        "category": " Galletas saladas",
+        "sku": " 899",
+        "brand": " Crakenas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1004-galleta-bridge-vainilla-8-und-240-g-13-12-2023-tiendasisimo-4-1-300x300.jpg",
+    "name": "Galleta bridge vainilla 8 und 240 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Galleta bridge vainilla 8 und 240 g",
+      "description": "Galleta bridge vainilla 8 und 240 g",
+      "price": "$6,290",
+      "productMeta": {
+        "category": " Galletas dulces",
+        "sku": " 1004",
+        "brand": " Bridge"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/08/208-Garbanzo-500-g-2-300x300.png",
+    "name": "Garbanzo 500 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Garbanzo 500 g",
+      "description": "Garbanzo 500 g",
+      "price": "$3,790",
+      "productMeta": {
+        "category": " Otros granos",
+        "sku": " 208",
+        "brand": " Otros granos"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/207-galletas-ritz-queso-6-und-180-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Galletas ritz queso 6 und 180 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Galletas ritz queso 6 und 180 g",
+      "description": "Galletas ritz queso 6 und 180 g",
+      "price": "$8,490",
+      "productMeta": {
+        "category": " Galletas saladas",
+        "sku": " 207",
+        "brand": " Ritz"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/210-gelatina-con-sabor-a-frutas-8-und-280-g-tiendasisimo-2-300x300.png",
+    "name": "Gelatina con sabor a frutas 8 und 280 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Gelatina con sabor a frutas 8 und 280 g",
+      "description": "Gelatina con sabor a frutas 8 und 280 g",
+      "price": "$4,590",
+      "productMeta": {
+        "category": " Caramelos gomitas & confites",
+        "sku": " 210",
+        "brand": " 45497"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/815-filetes-de-pechuga-pollo-500-g-tiendasisimo-300x300.jpg",
+    "name": "Filetes de pechuga pollo 500 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Filetes de pechuga pollo 500 g",
+      "description": "Filetes de pechuga pollo 500 g",
+      "price": "$13,990",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 815",
+        "brand": " Turky"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/198-galleta-wafer-galaxy-18-und-432-g-tiendasisimo-2-300x300.jpg",
+    "name": "Galleta wafer galaxy 18 und 432 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Galleta wafer galaxy 18 und 432 g",
+      "description": "Galleta wafer galaxy 18 und 432 g",
+      "price": "$8,490",
+      "productMeta": {
+        "category": " Galletas dulces",
+        "sku": " 198",
+        "brand": " Galaxy"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1147-gomas-acidas-trolli-enamoras-150-g-tiendasisimo-2-300x300.png",
+    "name": "Gomas acidas trolli enamoras 150 g",
+    "state": "active",
+    "Product": {
+      "name": "Gomas acidas trolli enamoras 150 g",
+      "description": "Gomas acidas trolli enamoras 150 g",
+      "price": "$4,590",
+      "productMeta": {
+        "category": " Caramelos gomitas & confites",
+        "sku": " 1147",
+        "brand": " Trolli"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/512-jabon-de-barra-liquido-azul-1000-ml-tiendasisimo-300x300.jpg",
+    "name": "Jabon de barra liquido azul 1000 ml",
+    "state": "recommended",
+    "Product": {
+      "name": "Jabon de barra liquido azul 1000 ml",
+      "description": "Jabon de barra liquido azul 1000 ml",
+      "price": "$4,990",
+      "productMeta": {
+        "category": " Detergentes",
+        "sku": " 512",
+        "brand": " Bumeran"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/55-jamon-sanduche-ahumado-400-g-tiendasisimo-300x300.jpg",
+    "name": "Jamon sanduche ahumado 400 g",
+    "state": "active",
+    "Product": {
+      "name": "Jamon sanduche ahumado 400 g",
+      "description": "Jamon sanduche ahumado 400 g",
+      "price": "$7,690",
+      "productMeta": {
+        "category": " Jamon",
+        "sku": " 55",
+        "brand": " Dan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/212-huevos-aa-12-und-2-300x300.png",
+    "name": "Huevos aa 12 und",
+    "state": "active",
+    "Product": {
+      "name": "Huevos aa 12 und",
+      "description": "Huevos aa 12 und",
+      "price": "$7,690",
+      "productMeta": {
+        "category": " Gallina",
+        "sku": " 212",
+        "brand": " Gallina"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/214-huevos-tipo-a-30-und-2-300x300.png",
+    "name": "Huevos tipo a 30 und",
+    "state": "active",
+    "Product": {
+      "name": "Huevos tipo a 30 und",
+      "description": "Huevos tipo a 30 und",
+      "price": "$13,990",
+      "productMeta": {
+        "category": " Gallina",
+        "sku": " 214",
+        "brand": " Gallina"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1375-halls-tubo-extrafuerte-12-und-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Halls tubo extrafuerte 12 und",
+    "state": "surprise",
+    "Product": {
+      "name": "Halls tubo extrafuerte 12 und",
+      "description": "Halls tubo extrafuerte 12 und",
+      "price": "$1,590",
+      "productMeta": {
+        "category": " Confiteria pos",
+        "sku": " 1375",
+        "brand": " Halls"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/508-insecticida-rastreros-250-ml-tiendasisimo-300x300.jpg",
+    "name": "Insecticida rastreros 250 ml",
+    "state": "defeated",
+    "Product": {
+      "name": "Insecticida rastreros 250 ml",
+      "description": "Insecticida rastreros 250 ml",
+      "price": "$7,490",
+      "productMeta": {
+        "category": " Otros hogar",
+        "sku": " 508",
+        "brand": " Bichek"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1414-kit-tinte-barcelo-1-negro-und-tiendasisimo-300x300.jpg",
+    "name": "Kit tinte barcelo 1 negro und",
+    "state": "recommended",
+    "Product": {
+      "name": "Kit tinte barcelo 1 negro und",
+      "description": "Kit tinte barcelo 1 negro und",
+      "price": "$9,990",
+      "productMeta": {
+        "category": " Tintura",
+        "sku": " 1414",
+        "brand": " Barcelo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1123-leche-entera-uht-lele-tetra-900-ml-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Leche entera uht lele tetra 900 ml",
+    "state": "defeated",
+    "Product": {
+      "name": "Leche entera uht lele tetra 900 ml",
+      "description": "Leche entera uht lele tetra 900 ml",
+      "price": "$3,390",
+      "productMeta": {
+        "category": " Leche liquida",
+        "sku": " 1123",
+        "brand": " Lele"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1417-kit-tinte-barcelo-8-rubio-claro-und-tiendasisimo-300x300.jpg",
+    "name": "Kit tinte barcelo 8 rubio claro und",
+    "state": "defeated",
+    "Product": {
+      "name": "Kit tinte barcelo 8 rubio claro und",
+      "description": "Kit tinte barcelo 8 rubio claro und",
+      "price": "$9,990",
+      "productMeta": {
+        "category": " Tintura",
+        "sku": " 1417",
+        "brand": " Barcelo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/215-leche-condensada-doypack-300-g-tiendasisimo-300x300.jpg",
+    "name": "Leche condensada doypack 300 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Leche condensada doypack 300 g",
+      "description": "Leche condensada doypack 300 g",
+      "price": "$5,390",
+      "productMeta": {
+        "category": " Otros lacteos",
+        "sku": " 215",
+        "brand": " Delicias de mi pradera"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1611-medio-pollo-despresado-maki-pollo-800-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Medio pollo despresado maki pollo 800 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Medio pollo despresado maki pollo 800 g",
+      "description": "Medio pollo despresado maki pollo 800 g",
+      "price": "$8,790",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1611",
+        "brand": " Maki pollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/816-maquina-de-afeitar-3h-hombre-2-und-tiendasisimo-300x300.jpg",
+    "name": "Maquina de afeitar 3h hombre 2 und",
+    "state": "forYou",
+    "Product": {
+      "name": "Maquina de afeitar 3h hombre 2 und",
+      "description": "Maquina de afeitar 3h hombre 2 und",
+      "price": "$2,990",
+      "productMeta": {
+        "category": " Afeitada",
+        "sku": " 816",
+        "brand": " X blade"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/651-mayonesa-sabor-tocineta-200-g-tiendasisimo-2-300x300.jpg",
+    "name": "Mayonesa sabor tocineta 200 g",
+    "state": "active",
+    "Product": {
+      "name": "Mayonesa sabor tocineta 200 g",
+      "description": "Mayonesa sabor tocineta 200 g",
+      "price": "$4,490",
+      "productMeta": {
+        "category": " Salsas gourmet",
+        "sku": " 651",
+        "brand": " Aderezos"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/226-miel-de-abejas-350-g-tiendasisimo-2-300x300.jpg",
+    "name": "Miel de abejas 350 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Miel de abejas 350 g",
+      "description": "Miel de abejas 350 g",
+      "price": "$8,190",
+      "productMeta": {
+        "category": " Salsas dulces",
+        "sku": " 226",
+        "brand": " San ambrosio"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/08/Mani-salado-uvas-pasas-frutopia-200-g-300x300.jpg",
+    "name": "Mani salado uvas pasas frutopia 200 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Mani salado uvas pasas frutopia 200 g",
+      "description": "Mani salado uvas pasas frutopia 200 g",
+      "price": "$3,990",
+      "productMeta": {
+        "category": " Frutos secos",
+        "sku": " 907",
+        "brand": " Frutopia"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/218-lomitos-de-atun-en-aceite-170-g-tiendasisimo-2-300x300.jpg",
+    "name": "Lomitos de atun en aceite 170 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Lomitos de atun en aceite 170 g",
+      "description": "Lomitos de atun en aceite 170 g",
+      "price": "$3,990",
+      "productMeta": {
+        "category": " Productos de mar",
+        "sku": " 218",
+        "brand": " Ocean gold"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/530-limpiavidrios-tapa-repuesto-500-ml-tiendasisimo-300x300.jpg",
+    "name": "Limpiavidrios tapa repuesto 500 ml",
+    "state": "recommended",
+    "Product": {
+      "name": "Limpiavidrios tapa repuesto 500 ml",
+      "description": "Limpiavidrios tapa repuesto 500 ml",
+      "price": "$2,290",
+      "productMeta": {
+        "category": " Limpiadores & desinfectantes",
+        "sku": " 530",
+        "brand": " Home be clean"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1382-mini-chips-ahoy-50-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Mini chips ahoy 50 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Mini chips ahoy 50 g",
+      "description": "Mini chips ahoy 50 g",
+      "price": "$2,190",
+      "productMeta": {
+        "category": " Confiteria pos",
+        "sku": " 1382",
+        "brand": " Chips ahoy"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/08/299-limonada-de-coco-palmera-drink-500-ml-tiendasisimo-300x300.jpg",
+    "name": "Limonada de coco palmera drink 500 ml",
+    "state": "surprise",
+    "Product": {
+      "name": "Limonada de coco palmera drink 500 ml",
+      "description": "Limonada de coco palmera drink 500 ml",
+      "price": "$3,050",
+      "productMeta": {
+        "category": " Aguas",
+        "sku": " 299",
+        "brand": " Palmera drink"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/219-lonja-de-guayaba-300-g-tiendasisimo-300x300.jpg",
+    "name": "Lonja de guayaba 300 g",
+    "state": "active",
+    "Product": {
+      "name": "Lonja de guayaba 300 g",
+      "description": "Lonja de guayaba 300 g",
+      "price": "$2,150",
+      "productMeta": {
+        "category": " Dulces tipicos",
+        "sku": " 219",
+        "brand": " Frutirrey"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/445-mixto-super-familiar-natural-240-g-tiendasisimo-300x300.jpg",
+    "name": "Mixto super familiar natural 240 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Mixto super familiar natural 240 g",
+      "description": "Mixto super familiar natural 240 g",
+      "price": "$8,490",
+      "productMeta": {
+        "category": " Mixtos",
+        "sku": " 445",
+        "brand": " La victoria"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/523-limpiajuntas-500-ml-tiendasisimo-300x300.jpg",
+    "name": "Limpiajuntas 500 ml",
+    "state": "surprise",
+    "Product": {
+      "name": "Limpiajuntas 500 ml",
+      "description": "Limpiajuntas 500 ml",
+      "price": "$2,990",
+      "productMeta": {
+        "category": " Limpiadores & desinfectantes",
+        "sku": " 523",
+        "brand": " Home be clean"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/525-limpiapisos-citronela-1000-ml-tiendasisimo-300x300.jpg",
+    "name": "Limpiapisos citronela 1000 ml",
+    "state": "forYou",
+    "Product": {
+      "name": "Limpiapisos citronela 1000 ml",
+      "description": "Limpiapisos citronela 1000 ml",
+      "price": "$2,890",
+      "productMeta": {
+        "category": " Limpiadores & desinfectantes",
+        "sku": " 525",
+        "brand": " Limpiadores & desinfectantes"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/77-mora-congelada-300-g-tiendasisimo-300x300.jpg",
+    "name": "Mora congelada 300 g",
+    "state": "active",
+    "Product": {
+      "name": "Mora congelada 300 g",
+      "description": "Mora congelada 300 g",
+      "price": "$3,390",
+      "productMeta": {
+        "category": " Frutas y pulpas",
+        "sku": " 77",
+        "brand": " Frutas y pulpas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/384-pan-hamburguesa-tostao-4-und-300-g-tiendasisimo-300x300.jpg",
+    "name": "Pan hamburguesa tostao 4 und 300 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Pan hamburguesa tostao 4 und 300 g",
+      "description": "Pan hamburguesa tostao 4 und 300 g",
+      "price": "$3,150",
+      "productMeta": {
+        "category": " Panes",
+        "sku": " 384",
+        "brand": " Tostao"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/419-panela-granulada-instantanea-500-g-tiendasisimo-2-300x300.jpg",
+    "name": "Panela granulada instantanea 500 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Panela granulada instantanea 500 g",
+      "description": "Panela granulada instantanea 500 g",
+      "price": "$3,190",
+      "productMeta": {
+        "category": " Panela",
+        "sku": " 419",
+        "brand": " Makariza"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/385-pan-perro-ajonjoli-tostao-4-und-270-g-tiendasisimo-300x300.jpg",
+    "name": "Pan perro ajonjoli tostao 4 und 270 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Pan perro ajonjoli tostao 4 und 270 g",
+      "description": "Pan perro ajonjoli tostao 4 und 270 g",
+      "price": "$3,150",
+      "productMeta": {
+        "category": " Panes",
+        "sku": " 385",
+        "brand": " Tostao"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/441-papas-natural-6-und-102-g-tiendasisimo-300x300.jpg",
+    "name": "Papas natural 6 und 102 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Papas natural 6 und 102 g",
+      "description": "Papas natural 6 und 102 g",
+      "price": "$3,990",
+      "productMeta": {
+        "category": " Papas fritas",
+        "sku": " 441",
+        "brand": " Prash"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/82-nuggets-de-pollo-240-g-tiendasisimo-300x300.png",
+    "name": "Nuggets de pollo 240 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Nuggets de pollo 240 g",
+      "description": "Nuggets de pollo 240 g",
+      "price": "$5,990",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 82",
+        "brand": " Crosby"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1622-muslos-marinados-delipollo-850-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Muslos marinados delipollo 850 g",
+    "state": "active",
+    "Product": {
+      "name": "Muslos marinados delipollo 850 g",
+      "description": "Muslos marinados delipollo 850 g",
+      "price": "$9,900",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1622",
+        "brand": " Delipollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/397-pan-tajado-goodman-480-g-tiendasisimo-300x300.jpg",
+    "name": "Pan tajado goodman 480 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Pan tajado goodman 480 g",
+      "description": "Pan tajado goodman 480 g",
+      "price": "$4,950",
+      "productMeta": {
+        "category": " Panes",
+        "sku": " 397",
+        "brand": " Goodman"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/442-papas-pollo-6-und-102-g-tiendasisimo-300x300.jpg",
+    "name": "Papas pollo 6 und 102 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Papas pollo 6 und 102 g",
+      "description": "Papas pollo 6 und 102 g",
+      "price": "$3,990",
+      "productMeta": {
+        "category": " Papas fritas",
+        "sku": " 442",
+        "brand": " Prash"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1068-Naranja-1500G-300x300.jpg",
+    "name": "Naranja valencia mediana 1500 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Naranja valencia mediana 1500 g",
+      "description": "Naranja valencia mediana 1500 g",
+      "price": "$4,290",
+      "productMeta": {
+        "category": " Frutas frescas",
+        "sku": " 1068",
+        "brand": " Frutas frescas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/433-papas-sabor-limon-pimienta-115-g-tiendasisimo-2-300x300.jpg",
+    "name": "Papas sabor limon pimienta 115 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Papas sabor limon pimienta 115 g",
+      "description": "Papas sabor limon pimienta 115 g",
+      "price": "$3,790",
+      "productMeta": {
+        "category": " Papas fritas",
+        "sku": " 433",
+        "brand": " Mechips"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/413-panela-panelin-1000-g-tiendasisimo-2-300x300.jpg",
+    "name": "Panela panelin 1000 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Panela panelin 1000 g",
+      "description": "Panela panelin 1000 g",
+      "price": "$4,850",
+      "productMeta": {
+        "category": " Panela",
+        "sku": " 413",
+        "brand": " Panela"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/894-mortadela-de-pollo-225-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Mortadela de pollo 225 g",
+    "state": "active",
+    "Product": {
+      "name": "Mortadela de pollo 225 g",
+      "description": "Mortadela de pollo 225 g",
+      "price": "$3,590",
+      "productMeta": {
+        "category": " Mortadela",
+        "sku": " 894",
+        "brand": " Dan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/398-pan-tajado-integral-400-g-tiendasisimo-300x300.jpg",
+    "name": "Pan tajado integral 400 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Pan tajado integral 400 g",
+      "description": "Pan tajado integral 400 g",
+      "price": "$5,250",
+      "productMeta": {
+        "category": " Panes",
+        "sku": " 398",
+        "brand": " Comapan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/727-palillos-doble-punta-180-und-tiendasisimo-300x300.jpg",
+    "name": "Palillos doble punta 180 und",
+    "state": "recommended",
+    "Product": {
+      "name": "Palillos doble punta 180 und",
+      "description": "Palillos doble punta 180 und",
+      "price": "$890",
+      "productMeta": {
+        "category": " Desechables",
+        "sku": " 727",
+        "brand": " El sol"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/545-pastilla-para-tanques-thanks-50-g-tiendasisimo-300x300.jpg",
+    "name": "Pastilla para tanques thanks 50 g",
+    "state": "active",
+    "Product": {
+      "name": "Pastilla para tanques thanks 50 g",
+      "description": "Pastilla para tanques thanks 50 g",
+      "price": "$3,790",
+      "productMeta": {
+        "category": " Limpiadores & desinfectantes",
+        "sku": " 545",
+        "brand": " Thanks"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1411-protectores-diarios-nosotras-15-und-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Protectores diarios nosotras 15 und",
+    "state": "active",
+    "Product": {
+      "name": "Protectores diarios nosotras 15 und",
+      "description": "Protectores diarios nosotras 15 und",
+      "price": "$2,190",
+      "productMeta": {
+        "category": " Proteccion femenina",
+        "sku": " 1411",
+        "brand": " Nosotras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/730-ponque-cubierto-de-chocolate-5-und-300-g-tiendasisimo-300x300.jpg",
+    "name": "Ponque cubierto de chocolate 5 und 300 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Ponque cubierto de chocolate 5 und 300 g",
+      "description": "Ponque cubierto de chocolate 5 und 300 g",
+      "price": "$7,990",
+      "productMeta": {
+        "category": " Panaderia dulce",
+        "sku": " 730",
+        "brand": " Comapan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/693-ponque-tajada-sabores-surtid-5-und-300-g-tiendasisimo-300x300.jpg",
+    "name": "Ponque tajada sabores surtid 5 und 300 g",
+    "state": "active",
+    "Product": {
+      "name": "Ponque tajada sabores surtid 5 und 300 g",
+      "description": "Ponque tajada sabores surtid 5 und 300 g",
+      "price": "$7,490",
+      "productMeta": {
+        "category": " Panaderia dulce",
+        "sku": " 693",
+        "brand": " Comapan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/393-pizza-jamon-queso-hawaiana-180-g-tiendasisimo-2-300x300.jpg",
+    "name": "Pizza jamon queso hawaiana 180 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Pizza jamon queso hawaiana 180 g",
+      "description": "Pizza jamon queso hawaiana 180 g",
+      "price": "$4,250",
+      "productMeta": {
+        "category": " Comidas preparadas",
+        "sku": " 393",
+        "brand": " Colpizza"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/837-quinoa-blanca-300-g-tiendasisimo-300x300.png",
+    "name": "Quinoa blanca 300 g",
+    "state": "active",
+    "Product": {
+      "name": "Quinoa blanca 300 g",
+      "description": "Quinoa blanca 300 g",
+      "price": "$4,990",
+      "productMeta": {
+        "category": " Otros granos",
+        "sku": " 837",
+        "brand": " Tepuy"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/95-pinchos-de-pollo-apanados-4-und-220-g-tiendasisimo-300x300.png",
+    "name": "Pinchos de pollo apanados 4 und 220 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Pinchos de pollo apanados 4 und 220 g",
+      "description": "Pinchos de pollo apanados 4 und 220 g",
+      "price": "$5,990",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 95",
+        "brand": " Crosby"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/307-refresco-boom-fresa-15-g-tiendasisimo-300x300.png",
+    "name": "Refresco boom fresa 15 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Refresco boom fresa 15 g",
+      "description": "Refresco boom fresa 15 g",
+      "price": "$590",
+      "productMeta": {
+        "category": " Refrescos instantaneos",
+        "sku": " 307",
+        "brand": " Boom"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1620-pechuga-marinada-delipollo-1500-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Pechuga marinada delipollo 1500 g",
+    "state": "active",
+    "Product": {
+      "name": "Pechuga marinada delipollo 1500 g",
+      "description": "Pechuga marinada delipollo 1500 g",
+      "price": "$20,650",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1620",
+        "brand": " Delipollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/596-pulpa-de-fruta-surtida-480-g-tiendasisimo-2-300x300.jpg",
+    "name": "Pulpa de fruta surtida 480 g",
+    "state": "active",
+    "Product": {
+      "name": "Pulpa de fruta surtida 480 g",
+      "description": "Pulpa de fruta surtida 480 g",
+      "price": "$5,490",
+      "productMeta": {
+        "category": " Frutas y pulpas",
+        "sku": " 596",
+        "brand": " Campesinos unidos"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/102-queso-gouda-ahumado-150-g-tiendasisimo-300x300.jpg",
+    "name": "Queso gouda ahumado 150 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Queso gouda ahumado 150 g",
+      "description": "Queso gouda ahumado 150 g",
+      "price": "$7,990",
+      "productMeta": {
+        "category": " Quesos y sueros",
+        "sku": " 102",
+        "brand": " Centurion"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/311-refresco-light-boom-fresa-8-g-tiendasisimo-300x300.png",
+    "name": "Refresco light boom fresa 8 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Refresco light boom fresa 8 g",
+      "description": "Refresco light boom fresa 8 g",
+      "price": "$990",
+      "productMeta": {
+        "category": " Refrescos instantaneos",
+        "sku": " 311",
+        "brand": " Boom"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1624-pierna-pernil-marinado-delipollo-800-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Pierna pernil marinado delipollo 800 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Pierna pernil marinado delipollo 800 g",
+      "description": "Pierna pernil marinado delipollo 800 g",
+      "price": "$7,490",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1624",
+        "brand": " Delipollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/2-pasta-de-cebolla-surtida-delika-110-g-tiendasisimo-2-300x300.jpg",
+    "name": "Pasta de cebolla surtida delika 110 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Pasta de cebolla surtida delika 110 g",
+      "description": "Pasta de cebolla surtida delika 110 g",
+      "price": "$2,190",
+      "productMeta": {
+        "category": " Condimentos & adobos",
+        "sku": " 2",
+        "brand": " Delika"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/407-pastel-hojaldrado-arequipe-50-g-tiendasisimo-2-300x300.jpg",
+    "name": "Pastel hojaldrado arequipe 50 g",
+    "state": "active",
+    "Product": {
+      "name": "Pastel hojaldrado arequipe 50 g",
+      "description": "Pastel hojaldrado arequipe 50 g",
+      "price": "$1,890",
+      "productMeta": {
+        "category": " Panaderia dulce",
+        "sku": " 407",
+        "brand": " Las caseritas"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1613-pechuga-marinada-maki-pollo-800-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Pechuga marinada maki pollo 800 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Pechuga marinada maki pollo 800 g",
+      "description": "Pechuga marinada maki pollo 800 g",
+      "price": "$14,990",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1613",
+        "brand": " Maki pollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/91-pasta-de-tomate-200-g-tiendasisimo-2-300x300.jpg",
+    "name": "Pasta de tomate 200 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Pasta de tomate 200 g",
+      "description": "Pasta de tomate 200 g",
+      "price": "$2,790",
+      "productMeta": {
+        "category": " Salsas basicas",
+        "sku": " 91",
+        "brand": " Al fresco"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1612-pechuga-marinada-maki-pollo-1500-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Pechuga marinada maki pollo 1500 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Pechuga marinada maki pollo 1500 g",
+      "description": "Pechuga marinada maki pollo 1500 g",
+      "price": "$20,650",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1612",
+        "brand": " Maki pollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1615-pierna-pernil-marinado-maki-pollo-800-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Pierna pernil marinado maki pollo 800 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Pierna pernil marinado maki pollo 800 g",
+      "description": "Pierna pernil marinado maki pollo 800 g",
+      "price": "$8,690",
+      "productMeta": {
+        "category": " Pollo",
+        "sku": " 1615",
+        "brand": " Maki pollo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/313-refresco-light-boom-naranja-8-g-tiendasisimo-2-300x300.jpg",
+    "name": "Refresco light boom naranja 8 g",
+    "state": "active",
+    "Product": {
+      "name": "Refresco light boom naranja 8 g",
+      "description": "Refresco light boom naranja 8 g",
+      "price": "$990",
+      "productMeta": {
+        "category": " Refrescos instantaneos",
+        "sku": " 313",
+        "brand": " Boom"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/96-rodajas-de-bagre-400-g-tiendasisimo-300x300.jpg",
+    "name": "Rodajas de bagre 400 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Rodajas de bagre 400 g",
+      "description": "Rodajas de bagre 400 g",
+      "price": "$9,490",
+      "productMeta": {
+        "category": " Pescados & mariscos",
+        "sku": " 96",
+        "brand": " Gsf"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/114-salchicha-super-dog-240-g-tiendasisimo-300x300.jpg",
+    "name": "Salchicha super dog 240 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Salchicha super dog 240 g",
+      "description": "Salchicha super dog 240 g",
+      "price": "$6,190",
+      "productMeta": {
+        "category": " Salchichas",
+        "sku": " 114",
+        "brand": " Catalan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/120-salsa-con-mostaza-200-g-tiendasisimo-2-1-300x300.jpg",
+    "name": "Salsa con mostaza 200 g",
+    "state": "active",
+    "Product": {
+      "name": "Salsa con mostaza 200 g",
+      "description": "Salsa con mostaza 200 g",
+      "price": "$2,190",
+      "productMeta": {
+        "category": " Salsas basicas",
+        "sku": " 120",
+        "brand": " Al fresco"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1073-rugula-200-g-13-12-2023-tiendasisimo-2-1-300x300.jpg",
+    "name": "Rugula 200 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Rugula 200 g",
+      "description": "Rugula 200 g",
+      "price": "$4,150",
+      "productMeta": {
+        "category": " Verduras",
+        "sku": " 1073",
+        "brand": " Verduras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/122-salsa-de-soya-190-g-tiendasisimo-2-1-300x300.jpg",
+    "name": "Salsa de soya 190 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Salsa de soya 190 g",
+      "description": "Salsa de soya 190 g",
+      "price": "$1,650",
+      "productMeta": {
+        "category": " Aderezos",
+        "sku": " 122",
+        "brand": " Al fresco"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/558-shampoo-bebe-400-ml-tiendasisimo-300x300.jpg",
+    "name": "Shampoo bebe 400 ml",
+    "state": "defeated",
+    "Product": {
+      "name": "Shampoo bebe 400 ml",
+      "description": "Shampoo bebe 400 ml",
+      "price": "$5,490",
+      "productMeta": {
+        "category": " Tocador infantil",
+        "sku": " 558",
+        "brand": " Tocador infantil"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/314-refrescos-de-fruta-funky-6-und-1200-ml-tiendasisimo-300x300.jpg",
+    "name": "Refrescos de fruta funky 6 und 1200 ml",
+    "state": "recommended",
+    "Product": {
+      "name": "Refrescos de fruta funky 6 und 1200 ml",
+      "description": "Refrescos de fruta funky 6 und 1200 ml",
+      "price": "$5,790",
+      "productMeta": {
+        "category": " Refrescos nectares & jugos",
+        "sku": " 314",
+        "brand": " Funky"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/239-salchicha-especial-y-pollo-blony-150-g-tiendasisimo-2-300x300.jpg",
+    "name": "Salchicha especial y pollo blony 150 g",
+    "state": "surprise",
+    "Product": {
+      "name": "Salchicha especial y pollo blony 150 g",
+      "description": "Salchicha especial y pollo blony 150 g",
+      "price": "$2,890",
+      "productMeta": {
+        "category": " Carnes enlatadas",
+        "sku": " 239",
+        "brand": " Blony"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/08/401-tostada-blanca-10-und-150-g-tiendasisimo-e1694783505604-300x300.jpg",
+    "name": "Tostada blanca 10 und 150 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Tostada blanca 10 und 150 g",
+      "description": "Tostada blanca 10 und 150 g",
+      "price": "$1,790",
+      "productMeta": {
+        "category": " Tostados",
+        "sku": " 401",
+        "brand": " Ponker"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1082-tomate-cherry-250-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Tomate cherry 250 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Tomate cherry 250 g",
+      "description": "Tomate cherry 250 g",
+      "price": "$4,750",
+      "productMeta": {
+        "category": " Verduras",
+        "sku": " 1082",
+        "brand": " Verduras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/410-tortilla-fajita-12-und-360-g-tiendasisimo-2-300x300.jpg",
+    "name": "Tortilla fajita 12 und 360 g",
+    "state": "active",
+    "Product": {
+      "name": "Tortilla fajita 12 und 360 g",
+      "description": "Tortilla fajita 12 und 360 g",
+      "price": "$5,990",
+      "productMeta": {
+        "category": " Tortillas",
+        "sku": " 410",
+        "brand": " Azteca"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1412-toalla-higienica-nosotras-natural-10-und-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Toalla higienica nosotras natural 10 und",
+    "state": "defeated",
+    "Product": {
+      "name": "Toalla higienica nosotras natural 10 und",
+      "description": "Toalla higienica nosotras natural 10 und",
+      "price": "$3,990",
+      "productMeta": {
+        "category": " Proteccion femenina",
+        "sku": " 1412",
+        "brand": " Nosotras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1381-sparkies-25-g-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Sparkies 25 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Sparkies 25 g",
+      "description": "Sparkies 25 g",
+      "price": "$1,390",
+      "productMeta": {
+        "category": " Confiteria pos",
+        "sku": " 1381",
+        "brand": " Bubbaloo"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/682-toallitas-humedas-infantiles-10-und-tiendasisimo-300x300.jpg",
+    "name": "Toallitas humedas infantiles 10 und",
+    "state": "forYou",
+    "Product": {
+      "name": "Toallitas humedas infantiles 10 und",
+      "description": "Toallitas humedas infantiles 10 und",
+      "price": "$1,150",
+      "productMeta": {
+        "category": " Proteccion infantil",
+        "sku": " 682",
+        "brand": " Key & clean baby"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/chonto-300x300.jpg",
+    "name": "Tomate chonto 500 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Tomate chonto 500 g",
+      "description": "Tomate chonto 500 g",
+      "price": "$2,890",
+      "productMeta": {
+        "category": " Verduras",
+        "sku": " 235",
+        "brand": " Verduras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1413-toalla-higienica-nosotras-rapigel-10-und-13-12-2023-tiendasisimo-1-300x300.jpg",
+    "name": "Toalla higienica nosotras rapigel 10 und",
+    "state": "forYou",
+    "Product": {
+      "name": "Toalla higienica nosotras rapigel 10 und",
+      "description": "Toalla higienica nosotras rapigel 10 und",
+      "price": "$5,990",
+      "productMeta": {
+        "category": " Proteccion femenina",
+        "sku": " 1413",
+        "brand": " Nosotras"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/402-tostada-integral-12-und-180-g-tiendasisimo-2-e1697234771630-300x300.jpg",
+    "name": "Tostada integral 12 und 180 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Tostada integral 12 und 180 g",
+      "description": "Tostada integral 12 und 180 g",
+      "price": "$2,390",
+      "productMeta": {
+        "category": " Tostados",
+        "sku": " 402",
+        "brand": " Castipan"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/1371-te-negro-hindu-12-sobres-192-g-tiendasisimo-300x300.png",
+    "name": "Te negro hindu 12 sobres 19,2 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Te negro hindu 12 sobres 19,2 g",
+      "description": "Te negro hindu 12 sobres 19,2 g",
+      "price": "$3,990",
+      "productMeta": {
+        "category": " Te & aromaticas",
+        "sku": " 1371",
+        "brand": " Hindu"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/690-te-verde-con-frutales-144-g-tiendasisimo-300x300.jpg",
+    "name": "Te verde con frutales 14,4 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Te verde con frutales 14,4 g",
+      "description": "Te verde con frutales 14,4 g",
+      "price": "$1,990",
+      "productMeta": {
+        "category": " Te & aromaticas",
+        "sku": " 690",
+        "brand": " Angel"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/08/423-yuquitas-familiares-135-g-tiendasisimo-2-600x600-1-300x300.jpg",
+    "name": "Yuquitas familiares 135 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Yuquitas familiares 135 g",
+      "description": "Yuquitas familiares 135 g",
+      "price": "$4,350",
+      "productMeta": {
+        "category": " Otros pasabocas",
+        "sku": " 423",
+        "brand": " Don villa"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/137-yogurt-cereal-surtido-3-und-450-g-tiendasisimo-300x300.jpg",
+    "name": "Yogurt cereal surtido 3 und 450 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Yogurt cereal surtido 3 und 450 g",
+      "description": "Yogurt cereal surtido 3 und 450 g",
+      "price": "$5,290",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 137",
+        "brand": " Colfrance"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/143-yogurt-griego-natural-sin-azucar-330-g-tiendasisimo-2-300x300.jpg",
+    "name": "Yogurt griego natural sin azucar 330 g",
+    "state": "active",
+    "Product": {
+      "name": "Yogurt griego natural sin azucar 330 g",
+      "description": "Yogurt griego natural sin azucar 330 g",
+      "price": "$7,190",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 143",
+        "brand": " Mulatte"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1377-trident-menta-5-und-13-12-2023-tiendasisimo-2-1-300x300.jpg",
+    "name": "Trident menta 5 und",
+    "state": "defeated",
+    "Product": {
+      "name": "Trident menta 5 und",
+      "description": "Trident menta 5 und",
+      "price": "$1,590",
+      "productMeta": {
+        "category": " Confiteria pos",
+        "sku": " 1377",
+        "brand": " Trident"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/135-vinagre-de-sidra-de-manzana-250-ml-tiendasisimo-2-300x300.jpg",
+    "name": "Vinagre de sidra de manzana 250 ml",
+    "state": "surprise",
+    "Product": {
+      "name": "Vinagre de sidra de manzana 250 ml",
+      "description": "Vinagre de sidra de manzana 250 ml",
+      "price": "$3,990",
+      "productMeta": {
+        "category": " Aderezos",
+        "sku": " 135",
+        "brand": " Aranzazu"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/140-yogurt-trozos-de-fruta-fresa-1000-g-tiendasisimo-2-300x300.jpg",
+    "name": "Yogurt trozos de fruta fresa 1000 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Yogurt trozos de fruta fresa 1000 g",
+      "description": "Yogurt trozos de fruta fresa 1000 g",
+      "price": "$8,290",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 140",
+        "brand": " Del norte"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/335-vino-tinto-valle-hermoso-malbec-750-ml-tiendasisimo-300x300.jpg",
+    "name": "Vino tinto valle hermoso malbec 750 ml",
+    "state": "recommended",
+    "Product": {
+      "name": "Vino tinto valle hermoso malbec 750 ml",
+      "description": "Vino tinto valle hermoso malbec 750 ml",
+      "price": "$16,990",
+      "productMeta": {
+        "category": " Vinos",
+        "sku": " 335",
+        "brand": " Valle hermoso"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/151-yogurt-vaso-mora-250-g-tiendasisimo-2-300x300.jpg",
+    "name": "Yogurt vaso mora 250 g",
+    "state": "active",
+    "Product": {
+      "name": "Yogurt vaso mora 250 g",
+      "description": "Yogurt vaso mora 250 g",
+      "price": "$2,490",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 151",
+        "brand": " Hato"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/142-yogurt-griego-entero-160-g-tiendasisimo-300x300.jpg",
+    "name": "Yogurt griego entero 160 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Yogurt griego entero 160 g",
+      "description": "Yogurt griego entero 160 g",
+      "price": "$3,850",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 142",
+        "brand": " Mulatte"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/147-yogurt-vaso-guanabana-250-g-tiendasisimo-2-300x300.jpg",
+    "name": "Yogurt vaso guanabana 250 g",
+    "state": "forYou",
+    "Product": {
+      "name": "Yogurt vaso guanabana 250 g",
+      "description": "Yogurt vaso guanabana 250 g",
+      "price": "$2,490",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 147",
+        "brand": " Hato"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/141-yogurt-trozos-de-fruta-melocoton-1000-g-tiendasisimo-2-300x300.jpg",
+    "name": "Yogurt trozos de fruta melocoton 1000 g",
+    "state": "recommended",
+    "Product": {
+      "name": "Yogurt trozos de fruta melocoton 1000 g",
+      "description": "Yogurt trozos de fruta melocoton 1000 g",
+      "price": "$8,290",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 141",
+        "brand": " Del norte"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/390-trufas-70-g-tiendasisimo-300x300.jpg",
+    "name": "Trufas 70 g",
+    "state": "defeated",
+    "Product": {
+      "name": "Trufas 70 g",
+      "description": "Trufas 70 g",
+      "price": "$2,690",
+      "productMeta": {
+        "category": " Panaderia dulce",
+        "sku": " 390",
+        "brand": " Beedony"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/676-yogurt-gourmet-mango-biche-180-g-tiendasisimo-2-300x300.jpg",
+    "name": "Yogurt gourmet mango biche 180 g",
+    "state": "active",
+    "Product": {
+      "name": "Yogurt gourmet mango biche 180 g",
+      "description": "Yogurt gourmet mango biche 180 g",
+      "price": "$2,590",
+      "productMeta": {
+        "category": " Bebidas lacteas",
+        "sku": " 676",
+        "brand": " Normandy"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/10/333-vino-valle-hermoso-cabernet-sauvi-750-ml-tiendasisimo-300x300.jpg",
+    "name": "Vino valle hermoso cabernet sauvi 750 ml",
+    "state": "forYou",
+    "Product": {
+      "name": "Vino valle hermoso cabernet sauvi 750 ml",
+      "description": "Vino valle hermoso cabernet sauvi 750 ml",
+      "price": "$16,990",
+      "productMeta": {
+        "category": " Vinos",
+        "sku": " 333",
+        "brand": " Valle hermoso"
+      }
+    }
+  },
+  {
+    "image": "https://tiendasisimo.com/wp-content/uploads/2023/12/1380-trident-x-splash-9-und-13-12-2023-tiendasisimo-2-1-300x300.jpg",
+    "name": "Trident x splash 9 und",
+    "state": "surprise",
+    "Product": {
+      "name": "Trident x splash 9 und",
+      "description": "Trident x splash 9 und",
+      "price": "$2,890",
+      "productMeta": {
+        "category": " Confiteria pos",
+        "sku": " 1380",
+        "brand": " Trident"
+      }
+    }
+  }
+]
