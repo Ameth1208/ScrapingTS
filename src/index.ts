@@ -1,51 +1,49 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
 import { IProductData } from "./interface/interface.product";
-import { addToJSON, getProductData, getRandomState } from "./utils";
+import { getProductData, getRandomState, setJSON } from "./utils";
 
 async function main() {
   try {
     let content: IProductData[] = [];
-
     let number = 14;
+
     for (let i = 1; i <= number; i++) {
       const response = await axios.get(
         `https://tiendasisimo.com/mercado/?product-page=${i}`
       );
       const $ = cheerio.load(response.data);
+      const products = $(".product");
 
-      await $(".product").each((a, element) => {
-        content.push({
-          name: $(element).find(".woocommerce-loop-product__title").text(),
-          image:
-            $(element).find(".size-woocommerce_thumbnail").attr("data-src") ||
-            $(element).find(".size-woocommerce_thumbnail").attr("src"),
-          state: getRandomState(),
-        });
-      });
-      console.log(`PAGE [${i}] PRODUCTOS SCANEADO`);
+      for (let element of products.toArray()) {
+        const name = $(element).find(".woocommerce-loop-product__title").text();
+        const image =
+          $(element).find(".size-woocommerce_thumbnail").attr("data-src") ||
+          $(element).find(".size-woocommerce_thumbnail").attr("src");
+        const state = getRandomState();
+        const ProductData = await getProductData(name);
+
+        if (ProductData) {
+          content.push({
+            name,
+            image,
+            state,
+            Product: ProductData,
+          });
+        } else {
+          // Si getProductData no devuelve nada, aún puedes decidir agregar el producto sin los datos adicionales
+          content.push({ name, image, state });
+        }
+      }
+      console.log(`PÁGINA [${i}] PRODUCTOS ESCANEADOS`);
     }
 
-    await content.map(async (item: IProductData, i: number) => {
-      let ProductData = await getProductData(item.name!);
+    // await addToJSON(content); // Asumiendo que quieres agregar todo el contenido al JSON
+    // Si setJSON debe usarse en lugar de addToJSON, asegúrate de que cumple con lo que necesitas
 
-      if (ProductData) {
-        let newProduct = {
-          image: content[i].image,
-          name: content[i].name,
-          state: content[i].state,
-          Product: ProductData,
-        };
-
-        await addToJSON(newProduct);
-      } else {
-        delete content[i];
-      }
-    });
-
-    // await setJSON(content);
+    setJSON(content);
   } catch (error) {
-    // console.log(error);
+    console.error("Error en la ejecución:", error);
   }
 }
 

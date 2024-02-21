@@ -28,18 +28,14 @@ async function getProductData(item: string) {
     return ProductData;
   } catch (error: AxiosError | any) {
     if (error.code === "ECONNABORTED") {
-      // Manejo específico para errores de timeout
       console.error("La solicitud se ha abortado por un timeout.");
     } else if (error.response) {
-      // El servidor respondió con un código de estado fuera del rango 2xx
       console.error(
         `Error en la respuesta del servidor: ${error.response.status}`
       );
     } else if (error.request) {
-      // La solicitud fue hecha pero no se recibió respuesta
       console.error("No se recibió respuesta para la solicitud hecha.");
     } else {
-      // Algo más causó el error
       console.error("Error al realizar la solicitud:", error.message);
     }
   }
