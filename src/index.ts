@@ -1,7 +1,12 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
 import { IProductData } from "./interface/interface.product";
-import { getProductData, getRandomState, setJSON } from "./utils";
+import {
+  getDiscountRandom,
+  getProductData,
+  getRandomState,
+  setJSON,
+} from "./utils";
 
 async function main() {
   try {
@@ -33,6 +38,7 @@ async function main() {
             name,
             image,
             state,
+            discount: getDiscountRandom(),
             Product: ProductData,
           });
         }

@@ -2,6 +2,7 @@ export interface IProductData {
   name?: string;
   image?: string | null;
   state?: string;
+  discount?: number;
   Product?: IProduct;
 }
 

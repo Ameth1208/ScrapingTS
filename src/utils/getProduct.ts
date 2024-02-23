@@ -20,9 +20,9 @@ async function getProductData(item: string) {
       description: $(".woocommerce-product-details__short-description").text(),
       price: $(`.woocommerce-Price-amount`).first().text(),
       productMeta: {
-        category: $(".product_meta>.posted_in").first().text().split(":")[1],
-        sku: $(".product_meta>.sku_wrapper").text().split(":")[1],
-        brand: $(".product_meta>.posted_in").last().text().split(":")[1],
+        category: $(".product_meta>.posted_in").first().text().split(": ")[1],
+        sku: $(".product_meta>.sku_wrapper").text().split(": ")[1],
+        brand: $(".product_meta>.posted_in").last().text().split(": ")[1],
       },
     };
     return ProductData;
